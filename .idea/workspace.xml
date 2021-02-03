@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9103d7c-7a75-4a8d-93e3-31c31abac040" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3" />
+  <component name="ProjectId" id="1meUS8SHRrZUMF0fQ2hqKrdEmSq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.." />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9103d7c-7a75-4a8d-93e3-31c31abac040" name="Default Changelist" comment="" />
+      <created>1609853546414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609853546414</updated>
+      <workItem from="1609853547987" duration="578000" />
+      <workItem from="1609854292848" duration="247000" />
+      <workItem from="1609854826032" duration="161000" />
+      <workItem from="1610610768020" duration="518000" />
+      <workItem from="1611054315224" duration="3000" />
+      <workItem from="1611569522522" duration="291000" />
+      <workItem from="1611582781502" duration="62000" />
+      <workItem from="1611582888594" duration="160000" />
+      <workItem from="1611583220302" duration="1082000" />
+      <workItem from="1611584325266" duration="3948000" />
+      <workItem from="1611637356334" duration="2220000" />
+      <workItem from="1611640391297" duration="319000" />
+      <workItem from="1611659975725" duration="1066000" />
+      <workItem from="1611661397368" duration="2009000" />
+      <workItem from="1611667476043" duration="1061000" />
+      <workItem from="1611671133124" duration="1447000" />
+      <workItem from="1611716698947" duration="2623000" />
+      <workItem from="1611722346353" duration="3945000" />
+      <workItem from="1611726787282" duration="268000" />
+      <workItem from="1611727171806" duration="3482000" />
+      <workItem from="1611732363327" duration="808000" />
+      <workItem from="1611733185189" duration="3944000" />
+      <workItem from="1611737959081" duration="363000" />
+      <workItem from="1611738752085" duration="425000" />
+      <workItem from="1611739214369" duration="750000" />
+      <workItem from="1611740239720" duration="588000" />
+      <workItem from="1611740859966" duration="45000" />
+      <workItem from="1611740941478" duration="329000" />
+      <workItem from="1611741304455" duration="402000" />
+      <workItem from="1611741777557" duration="4921000" />
+      <workItem from="1611754728981" duration="156000" />
+      <workItem from="1611754898182" duration="1806000" />
+      <workItem from="1611756794909" duration="1496000" />
+      <workItem from="1611758757964" duration="449000" />
+      <workItem from="1611759633594" duration="2272000" />
+      <workItem from="1611762642029" duration="755000" />
+      <workItem from="1611788454423" duration="147000" />
+      <workItem from="1611788619120" duration="51000" />
+      <workItem from="1611788681587" duration="21000" />
+      <workItem from="1611788717727" duration="1993000" />
+      <workItem from="1611805414600" duration="2681000" />
+      <workItem from="1611808547615" duration="7850000" />
+      <workItem from="1611818156075" duration="1557000" />
+      <workItem from="1611823863558" duration="1717000" />
+      <workItem from="1611827156415" duration="244000" />
+      <workItem from="1611827416263" duration="23000" />
+      <workItem from="1611827441882" duration="1000" />
+      <workItem from="1611827459001" duration="3048000" />
+      <workItem from="1611898620547" duration="3409000" />
+      <workItem from="1611902254472" duration="1352000" />
+      <workItem from="1611903759753" duration="219000" />
+      <workItem from="1611904122449" duration="17000" />
+      <workItem from="1611904240723" duration="140000" />
+      <workItem from="1611904398363" duration="614000" />
+      <workItem from="1611905124190" duration="943000" />
+      <workItem from="1611906072739" duration="4303000" />
+      <workItem from="1611911461093" duration="4832000" />
+      <workItem from="1611920214031" duration="430000" />
+      <workItem from="1611928944648" duration="3335000" />
+      <workItem from="1611984821236" duration="343000" />
+      <workItem from="1612008617222" duration="635000" />
+      <workItem from="1612012892700" duration="967000" />
+      <workItem from="1612018848702" duration="7710000" />
+      <workItem from="1612090627803" duration="4110000" />
+      <workItem from="1612101064075" duration="502000" />
+      <workItem from="1612105551479" duration="249000" />
+      <workItem from="1612106003633" duration="1105000" />
+      <workItem from="1612180524100" duration="389000" />
+      <workItem from="1612193819242" duration="1222000" />
+      <workItem from="1612238822553" duration="5785000" />
+      <workItem from="1612262105725" duration="467000" />
+      <workItem from="1612262698968" duration="1206000" />
+      <workItem from="1612263988483" duration="84000" />
+      <workItem from="1612321791641" duration="12837000" />
+      <workItem from="1612341187668" duration="634000" />
+      <workItem from="1612341893076" duration="323000" />
+      <workItem from="1612342607739" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1014" y="23" key="#PHP" timestamp="1609854022857">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state x="1014" y="23" key="#PHP/0.23.2560.1365@0.23.2560.1365" timestamp="1609854022857" />
+    <state x="912" y="125" key="#Project_Structure" timestamp="1609853559003">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state x="912" y="125" key="#Project_Structure/0.23.2560.1365@0.23.2560.1365" timestamp="1609853559003" />
+    <state x="831" y="628" key="#SQL_Dialects" timestamp="1611931291041">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state x="831" y="628" key="#SQL_Dialects/0.23.2560.1365@0.23.2560.1365" timestamp="1611931291041" />
+    <state x="184" y="97" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611662300106">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="184" y="97" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.834@0.23.1440.834" timestamp="1611662300106" />
+    <state x="807" y="174" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1611760116085">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state x="807" y="174" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.2560.1365@0.23.2560.1365" timestamp="1611760116085" />
+    <state x="1328" y="720" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611810611823">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state x="1328" y="720" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.1365@0.23.2560.1365" timestamp="1611810611823" />
+    <state x="1005" y="269" key="NewPhpClassDialog" timestamp="1609854399670">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state x="1005" y="269" key="NewPhpClassDialog/0.23.2560.1365@0.23.2560.1365" timestamp="1609854399670" />
+    <state x="1136" y="387" key="NewPhpFileDialog" timestamp="1611900399221">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state x="1136" y="387" key="NewPhpFileDialog/0.23.2560.1365@0.23.2560.1365" timestamp="1611900399221" />
+    <state x="789" y="344" key="SettingsEditor" timestamp="1611911474074">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state x="443" y="135" key="SettingsEditor/0.23.1440.834@0.23.1440.834" timestamp="1611640120634" />
+    <state x="789" y="344" key="SettingsEditor/0.23.2560.1365@0.23.2560.1365" timestamp="1611911474074" />
+    <state x="967" y="292" key="com.intellij.ide.util.TipDialog" timestamp="1612341989031">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state x="544" y="187" key="com.intellij.ide.util.TipDialog/0.23.1440.833@0.23.1440.833" timestamp="1611637356326" />
+    <state x="544" y="187" key="com.intellij.ide.util.TipDialog/0.23.1440.834@0.23.1440.834" timestamp="1612238822561" />
+    <state x="544" y="188" key="com.intellij.ide.util.TipDialog/0.23.1440.837@0.23.1440.837" timestamp="1611984821361" />
+    <state x="967" y="292" key="com.intellij.ide.util.TipDialog/0.23.2560.1365@0.23.2560.1365" timestamp="1612341989031" />
+  </component>
+</project>
